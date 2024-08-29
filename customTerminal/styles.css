@@ -1,0 +1,46 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #0000AA;
+    color: white;
+}
+
+#terminal {
+    height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    overflow-y: auto;
+}
+
+#terminal-output {
+    margin-bottom: 20px;
+}
+
+#input-line {
+    display: flex;
+}
+
+.prompt {
+    margin-right: 10px;
+}
+
+#terminal-input {
+    flex-grow: 1;
+    background: transparent;
+    border: none;
+    color: white;
+    font-family: inherit;
+    font-size: inherit;
+    outline: none;
+}
+
+.command {
+    margin-bottom: 10px;
+}
+
+.output {
+    margin-bottom: 20px;
+    white-space: pre-wrap;
+}
