@@ -2,13 +2,14 @@
 
 **`Aspiring Hardware Engineer`**
 
-I’m a knowledge-hungry Mechatronics Engineering student passionate about exploring and innovating through personal and academic projects. My career interests include Hardware Design, Computer Vision, and Embedded Systems, fields in which I've continually honed my skills through hands-on experience and collaboration. During my university years, I had the privilege of working on diverse team projects, where I not only contributed technically but also developed my leadership and social competencies. 
-
+I’m a knowledge-hungry Mechatronics Engineering student. With this Readme, I want to showcase some of my completed personal and academic projects.
+I will also showcase some of my current real-time data sent from sensors in my room. 
+Essentially this is a whole software project that showcases my hardware projects. Enjoy!
 ---
 
 ### 🧰 Languages and Tools
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,7 +22,6 @@ I’m a knowledge-hungry Mechatronics Engineering student passionate about explo
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-orange?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
 
 <br />
 
