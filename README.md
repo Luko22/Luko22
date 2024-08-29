@@ -8,7 +8,20 @@ I’m a knowledge-hungry Mechatronics Engineering student passionate about explo
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=c-in-hexagon&logoColor=white" /> <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=cpp-in-hexagon&logoColor=white" /> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=python&logoColor=white" /> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=java&logoColor=white" /> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=html5&logoColor=white" /> <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=csharp&logoColor=white" /> <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=linux&logoColor=white" /> <img align="left" alt="ROS" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=ros&logoColor=white" /> <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=matlab&logoColor=white" /> <img align="left" alt="Simulink" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=simulink&logoColor=white" /> <img align="left" alt="Altium Designer" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=altium-designer&logoColor=white" /> <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-orange?style=for-the-badge&logo=solidworks&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
 
 <br />
 
