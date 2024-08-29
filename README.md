@@ -8,9 +8,9 @@ I’m a knowledge-hungry Mechatronics Engineering student passionate about explo
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C-blue.svg?logo=c&logoColor=white" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C-blue.svg?" />
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C++-blue.svg?logo=c%2B%2B&logoColor=white" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C++-blue.svg?" />
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Python-blue.svg?logo=python&logoColor=white" />
 
