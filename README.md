@@ -8,20 +8,30 @@ I’m a knowledge-hungry Mechatronics Engineering student passionate about explo
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cpplk/logo-cpplk.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C-blue.svg?logo=c&logoColor=white" />
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C++-blue.svg?logo=c%2B%2B&logoColor=white" />
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Python-blue.svg?logo=python&logoColor=white" />
 
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Java-blue.svg?logo=java&logoColor=white" />
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/HTML-blue.svg?logo=html5&logoColor=white" />
+
+<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C%23-blue.svg?logo=csharp&logoColor=white" />
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Linux-blue.svg?logo=linux&logoColor=white" />
+
+<img align="left" alt="ROS" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/ROS-blue.svg?logo=ros&logoColor=white" />
+
+<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/MATLAB-blue.svg?logo=mathworks&logoColor=white" />
+
+<img align="left" alt="Simulink" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Simulink-blue.svg?logo=simulink&logoColor=white" />
+
+<img align="left" alt="Altium Designer" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Altium%20Designer-blue.svg?logo=altiumdesigner&logoColor=white" />
+
+<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/VSCode-blue.svg?logo=visualstudiocode&logoColor=white" />
+
 
 <br />
 
