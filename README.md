@@ -8,30 +8,7 @@ I’m a knowledge-hungry Mechatronics Engineering student passionate about explo
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C-blue.svg?" />
-
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C++-blue.svg?" />
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Python-blue.svg?logo=python&logoColor=white" />
-
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Java-blue.svg?logo=java&logoColor=white" />
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/HTML-blue.svg?logo=html5&logoColor=white" />
-
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/C%23-blue.svg?logo=csharp&logoColor=white" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Linux-blue.svg?logo=linux&logoColor=white" />
-
-<img align="left" alt="ROS" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/ROS-blue.svg?logo=ros&logoColor=white" />
-
-<img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/MATLAB-blue.svg?logo=mathworks&logoColor=white" />
-
-<img align="left" alt="Simulink" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Simulink-blue.svg?logo=simulink&logoColor=white" />
-
-<img align="left" alt="Altium Designer" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Altium%20Designer-blue.svg?logo=altiumdesigner&logoColor=white" />
-
-<img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/VSCode-blue.svg?logo=visualstudiocode&logoColor=white" />
-
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=c-in-hexagon&logoColor=white" /> <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=cpp-in-hexagon&logoColor=white" /> <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=python&logoColor=white" /> <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=java&logoColor=white" /> <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=html5&logoColor=white" /> <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=csharp&logoColor=white" /> <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=linux&logoColor=white" /> <img align="left" alt="ROS" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=ros&logoColor=white" /> <img align="left" alt="MATLAB" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=matlab&logoColor=white" /> <img align="left" alt="Simulink" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=simulink&logoColor=white" /> <img align="left" alt="Altium Designer" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=altium-designer&logoColor=white" /> <img align="left" alt="VS Code" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/-?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 <br />
 
