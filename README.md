@@ -36,9 +36,8 @@ I’m a knowledge-hungry Mechatronics Engineering student passionate about explo
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 # h  i
-<!--
 <details>
  <summary><h3>👨‍💻 hi </h3></summary>
    One of my earliest inspirations was purchasing an Arduino Uno development kit with sensors. I was amazed at how many things can be done and made with just one board. I then started encountering boards that are capable of WiFi and Bluetooth, and even bought custom boards (RFnano) which made my projects more compact and also changed my perception. since then I have now finished around 10 personal projects and a few academic ones, all spanning topics from a board game about math to a robot car which I can see and control from my mobile phone. The biggest difference I recognize within myself since I started is that now I have a better idea of really how little I know. And that excites me. I want to explore through projects and learn through collaborations. I believe I am in the right path.
--->
+
 
