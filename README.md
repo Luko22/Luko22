@@ -2,8 +2,8 @@
 
 **`Aspiring Hardware Engineer`**
 
-I’m a knowledge-hungry Mechatronics Engineering student. With this (a Readme portfolio project), I want to showcase some of my completed personal and academic projects.
-I will also showcase some of my current real-time data sent from sensors in my room. 
+I’m a knowledge-hungry Mechatronics Engineering student. With this (a Readme portfolio project), I want to demonstrate some of my completed personal and academic projects.
+I will also showcase some of my current real-time data sent from sensors in my room with a SQL database and PHP. 
 Essentially this is a whole software project that showcases my hardware projects. Enjoy!
 ---
 
