@@ -27,9 +27,6 @@ Most of all, I enjoy making Electronics projects that can impact my life and tho
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer" title="MATLAB">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   </a>
-  <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer" title="Simulink">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="simulink" width="40" height="40"/>
-  </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer" title="OpenCV">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
@@ -42,7 +39,7 @@ Most of all, I enjoy making Electronics projects that can impact my life and tho
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" title="HTML">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master
 
-<br />
+
 <!--   -->
 
 
