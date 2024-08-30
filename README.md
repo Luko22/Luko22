@@ -1,8 +1,8 @@
-# Laudo Lukoki
+# Hello, my name is Laudo Lukoki
 
 **`Aspiring Hardware Engineer`**
 
-I’m a knowledge-hungry Mechatronics Engineering student. With this Readme, I want to showcase some of my completed personal and academic projects.
+I’m a knowledge-hungry Mechatronics Engineering student. With this (a Readme portfolio project), I want to showcase some of my completed personal and academic projects.
 I will also showcase some of my current real-time data sent from sensors in my room. 
 Essentially this is a whole software project that showcases my hardware projects. Enjoy!
 ---
