@@ -23,9 +23,10 @@ But most of all, I enjoy making Electronics projects that can impact my life and
 <br />
 
 
-## Portfolio website
+### Portfolio website
 With this Readme, I simply wanted to introduce myself. 
-HOW-UH-EVER (as my secondary IT used to say) I made an interactive, Website Portfolio to demonstrate a few projects of mine. I also showcase some of my current real-time data sent from sensors in my room with a SQL database and PHP. Essentially this is a whole software project to show my hardware projects. Enjoy! please click here[https://www.google.com/] or the wanted 
+HOW-UH-EVER (as my secondary IT used to say) I made an interactive, Website Portfolio to demonstrate a few projects of mine. I also showcase some of my current real-time data sent from sensors in my room with a SQL database and PHP.<br />
+Essentially this is a whole software project to show my hardware projects. Enjoy! please click here[https://www.google.com/] or the wanted 
 -->
 
 <details>
