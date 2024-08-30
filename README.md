@@ -6,7 +6,7 @@ I’m a knowledge-hungry Mechatronics Engineering student. I enjoy Cooking, Mixe
 But most of all, I enjoy making Electronics projects that can impact my life and those around me. 
 
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 ![ah](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -23,7 +23,7 @@ But most of all, I enjoy making Electronics projects that can impact my life and
 <br />
 
 
-### Portfolio website
+## Portfolio website
 With this Readme, I simply wanted to introduce myself. 
 HOW-UH-EVER (as my secondary IT used to say) I made an interactive, Website Portfolio to demonstrate a few projects of mine. I also showcase some of my current real-time data sent from sensors in my room with a SQL database and PHP.<br />
 Essentially this is a whole software project to show my hardware projects. Enjoy! please click here[https://www.google.com/] or the wanted 
