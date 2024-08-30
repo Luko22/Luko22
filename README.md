@@ -2,8 +2,8 @@
 
 **`Aspiring Hardware Engineer`**
 
-I’m a knowledge-hungry Mechatronics Engineering student. I enjoy Cooking, Mixed Martial Arts, and Warhammer 40K.
-But most of all, I enjoy making Electronics projects that can impact my life and those around me. 
+I’m a knowledge-hungry Mechatronics Engineering student. I enjoy Cooking, Mixed Martial Arts, and Warhammer 40K.<br />
+Most of all, I enjoy making Electronics projects that can impact my life and those around me. 
 
 
 ## 🧰 Languages and Tools
@@ -25,8 +25,8 @@ But most of all, I enjoy making Electronics projects that can impact my life and
 
 ## Portfolio website
 With this Readme, I simply wanted to introduce myself. 
-HOW-UH-EVER (as my secondary IT used to say) I made an interactive, Website Portfolio to demonstrate a few projects of mine. I also showcase some of my current real-time data sent from sensors in my room with a SQL database and PHP.<br />
-Essentially this is a whole software project to show my hardware projects. Enjoy! please click here[https://www.google.com/] or the wanted 
+HOW-UH-EVER (as my secondary IT used to say) I also made an interactive, Website Portfolio to demonstrate a few projects of mine. There I also showcase real-time data sent from sensors in my room with a SQL database and PHP.<br />
+Essentially this is a whole software project to show my hardware projects. Enjoy! check out [Luko22.github.io] !
 -->
 
 <details>
