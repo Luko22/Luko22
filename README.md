@@ -110,7 +110,7 @@ With this Readme, I simply wanted to introduce myself.
 HOW-UH-EVER (as my secondary IT teacher used to say, in a slow, dramatic voice) I also made an interactive, Website Portfolio to demonstrate a few projects of mine. There I also showcase real-time data sent from sensors in my room with a SQL database and PHP. <br />
 Essentially this is a whole software project to show my hardware projects. [Here is my Portfolio](Luko22.github.io)
 -->
-
+<br />
  <details>
  <summary><h3>🎛️ WHAT INSPIRED ME </h3></summary>
    One of my earliest inspirations was purchasing an Arduino Uno development kit with sensors. I was amazed at how many things can be done and made with just one board. I then started encountering boards that are capable of WiFi and Bluetooth and even bought custom boards. I was forever changed. Since then I have now finished around 10 personal projects and a few academic ones, all spanning topics from a board game about math to a robot car which I can see and control from my mobile phone. The biggest difference I recognize within myself since I started is that now I have a better idea of how little I truly know. Though ROS2, FPGAs, and RTOS are still new to me, I rejoice at the chance of learning something new. I want to learn and experience through making, and I believe I am in the right path.
