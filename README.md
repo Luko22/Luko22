@@ -23,7 +23,7 @@ Essentially this is a whole software project that showcases my hardware projects
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 <br />
 
-
+<details>
  <summary><h3>👨‍💻 What inspired me </h3></summary>
    One of my earliest inspirations was purchasing an Arduino Uno development kit with sensors. I was amazed at how many things can be done and made with just one board. I then started encountering boards that are capable of WiFi and Bluetooth and even bought custom boards. I was forever changed. Since then I have now finished around 10 personal projects and a few academic ones, all spanning topics from a board game about math to a robot car which I can see and control from my mobile phone. The biggest difference I recognize within myself since I started is that now I have a better idea of how little I truly know. And that excites me. I want to explore through projects and learn through collaborations. I believe I am in the right path.
 
