@@ -4,9 +4,7 @@
 
 I’m a knowledge-hungry Mechatronics Engineering student. I enjoy Cooking, Mixed Martial Arts, and Warhammer 40K.
 But most of all, I enjoy making Electronics projects that can impact my life and those around me. 
-<!--With this (a Readme portfolio project), I want to demonstrate some of my completed personal and academic projects.
-I will also showcase some of my current real-time data sent from sensors in my room with a SQL database and PHP. 
-Essentially this is a whole software project that showcases my hardware projects. Enjoy!-->
+
 
 ### 🧰 Languages and Tools
 ![ah](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -23,6 +21,12 @@ Essentially this is a whole software project that showcases my hardware projects
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 <br />
+
+
+## Portfolio website
+With this Readme, I simply wanted to introduce myself. 
+HOW-UH-EVER (as my secondary IT used to say) I made an interactive, Website Portfolio to demonstrate a few projects of mine. I also showcase some of my current real-time data sent from sensors in my room with a SQL database and PHP. Essentially this is a whole software project to show my hardware projects. Enjoy! please click here[https://www.google.com/] or the wanted 
+-->
 
 <details>
  <summary><h3> WHO AM I </h3></summary>
