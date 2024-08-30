@@ -7,7 +7,7 @@ Most of all, I enjoy making Electronics projects that can impact my life and tho
 
 
 <h2 align="left">🤺 Languages and Tools</h2>
-<div style="display: flex; flex-wrap: wrap; gap: 100px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" title="C">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
