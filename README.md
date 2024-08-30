@@ -23,7 +23,6 @@ Essentially this is a whole software project that showcases my hardware projects
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 <br />
-
 <details>
  <summary><h3> WHO AM I </h3></summary>
  My full name is Laudo Finda Pedro Lukoki. I was born in Luanda, Angola in 2001, and moved to Cuba with my family in 2012. There, I graduated in 2019 with an IB Diploma from the International School of Havana and also learned fluent Spanish and English. 6 months later I found myself in Aachen, Germany, where I enrolled in an Intensive Language Course. Unfortunately, the COVID lockdown started 3 into my language course, which required the rest to be done online. I then Enrolled in the Rhein-Waal University of Applied Sciences, where I currently study Mechatronics Systems Engineering. I enjoy Hardware and MCU programming and wish to be able to pursue it professionally. I am part of my university's Robotics Club and eGoKart Team, where I not only gain technical experience but also teamwork and soft skills. Similarly, I have also joined Reddit and Discord communities dedicated to Embedded Systems. My goal is to be a multidimensional engineer, as my interests vary and span from making my Bicycle an IoT project to even C++ Game Design.
