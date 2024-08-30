@@ -104,7 +104,6 @@ Most of all, I enjoy making Electronics projects that can impact my life and tho
 
 <br clear="left"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luko22&show_icons=true&locale=en&layout=compact" alt="Luko22" /></p>
 <!--## Portfolio website
 With this Readme, I simply wanted to introduce myself. 
 HOW-UH-EVER (as my secondary IT teacher used to say, in a slow, dramatic voice) I also made an interactive, Website Portfolio to demonstrate a few projects of mine. There I also showcase real-time data sent from sensors in my room with a SQL database and PHP. <br />
@@ -120,3 +119,5 @@ Essentially this is a whole software project to show my hardware projects. [Here
  <summary><h3>🙋🏿‍♂️ ABOUT ME </h3></summary>
  My full name is Laudo Finda Pedro Lukoki. I was born in Luanda, Angola in 2001, and moved to Cuba with my family in 2012. There, I graduated in 2019 with an IB Diploma from the International School of Havana and also learned Spanish and English (my second and third languages, Portuguese being my first). 6 months later I found myself in Aachen, Germany, where I enrolled in an Intensive Language Course. Unfortunately, the COVID lockdown started 3 into my language course, which required the rest to be done online. I then Enrolled in the Rhein-Waal University of Applied Sciences, where I currently study Mechatronics Systems Engineering. I enjoy Hardware and MCU programming and wish to be able to pursue it professionally. I am part of my university's Robotics Club and eGoKart Team, where I not only gain technical experience but also teamwork and soft skills. Similarly, I have also joined Reddit and Discord communities dedicated to Embedded Systems. My goal is to be a multidimensional engineer, as my interests vary and span from making my Bicycle an IoT project to even C++ Game Design. Another goal is to speak fluent German (I'm almost there).
 </details>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luko22&show_icons=true&locale=en&layout=compact" alt="Luko22" /></p>
