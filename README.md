@@ -2,7 +2,8 @@
 
 **`Aspiring Hardware Engineer`**
 
-I’m a knowledge-hungry Mechatronics Engineering student. I enjoy Cooking, Mixed Martial Arts, making DIY electronics projects that impro
+I’m a knowledge-hungry Mechatronics Engineering student. I enjoy Cooking, Mixed Martial Arts, and Warhammer 40K.
+But most of all, I enjoy making Electronics projects that can impact my life and those around me. 
 <!--With this (a Readme portfolio project), I want to demonstrate some of my completed personal and academic projects.
 I will also showcase some of my current real-time data sent from sensors in my room with a SQL database and PHP. 
 Essentially this is a whole software project that showcases my hardware projects. Enjoy!-->
@@ -24,7 +25,11 @@ Essentially this is a whole software project that showcases my hardware projects
 <br />
 
 <details>
+ <summary><h3> Who am I</h3></summary>
+ My full name is Laudo Finda Pedro Lukoki. I was born in Luanda, Angola in 2001, and moved to Cuba with my family in 2012. There, I graduated in 2019 with an IB Diploma from the International School of Havana and also learned fluent Spanish and English. 6 months later I found myself in Aachen, Germany, where I enrolled in an Intensive Language Course. Unfortunately, the COVID lockdown started 3 into my language course, which required the rest to be done online. I then Enrolled in the Rhein-Waal University of Applied Sciences, where I currently study Mechatronics Systems Engineering. I enjoy Hardware and MCU programming and wish to be able to pursue it professionally. I am part of my university's Robotics Club and eGoKart Team, where I not only gain technical experience but also teamwork and soft skills. Similarly, I have also joined Reddit and Discord communities dedicated to Embedded Systems. My goal is to be a multidimensional engineer, as my interests vary and span from making my Bicycle an IoT project to even C++ Game Design.
+ 
+<details>
  <summary><h3>👨‍💻 What inspired me </h3></summary>
-   One of my earliest inspirations was purchasing an Arduino Uno development kit with sensors. I was amazed at how many things can be done and made with just one board. I then started encountering boards that are capable of WiFi and Bluetooth and even bought custom boards. I was forever changed. Since then I have now finished around 10 personal projects and a few academic ones, all spanning topics from a board game about math to a robot car which I can see and control from my mobile phone. The biggest difference I recognize within myself since I started is that now I have a better idea of how little I truly know. And that excites me. I want to explore through projects and learn through collaborations. I believe I am in the right path.
+   One of my earliest inspirations was purchasing an Arduino Uno development kit with sensors. I was amazed at how many things can be done and made with just one board. I then started encountering boards that are capable of WiFi and Bluetooth and even bought custom boards. I was forever changed. Since then I have now finished around 10 personal projects and a few academic ones, all spanning topics from a board game about math to a robot car which I can see and control from my mobile phone. The biggest difference I recognize within myself since I started is that now I have a better idea of how little I truly know. Though ROS2, FPGAs, and RTOS are still new to me, I rejoice at the chance of learning something new. I want to learn and experience through making, and I believe I am in the right path.
 
 
