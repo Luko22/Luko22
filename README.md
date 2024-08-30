@@ -6,22 +6,105 @@ I’m a knowledge-hungry Mechatronics Engineering student. I enjoy Cooking, Mixe
 Most of all, I enjoy making Electronics projects that can impact my life and those around me. 
 
 
-## 🤺 Skills & Tools
-![ah](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-orange?style=for-the-badge&logo=solidworks&logoColor=white)
-![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-<br />
 
+<h2 align="left">🤺 Languages and Tools</h2>
+
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/>
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="48" height="48"/>
+      </a>
+      <br>C#
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" height="48"/>
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/>
+      </a>
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="48" height="48"/>
+      </a>
+      <br>MATLAB
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mathworks.com/products/simulink.html" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo.png" alt="simulink" width="48" height="48"/>
+      </a>
+      <br>Simulink
+    </td>
+    <td align="center" width="96">
+      <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/>
+      </a>
+      <br>OpenCV
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="48" height="48"/>
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
+      </a>
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/>
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/>
+      </a>
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="48" height="48"/>
+      </a>
+      <br>Blender
+    </td>
+    <td align="center" width="96">
+      <a href="https://unrealengine.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="48" height="48"/>
+      </a>
+      <br>Unreal Engine
+    </td>
+  </tr>
+</table>
+
+<br clear="left"/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luko22&show_icons=true&locale=en&layout=compact" alt="Luko22" /></p>
 <!--## Portfolio website
 With this Readme, I simply wanted to introduce myself. 
 HOW-UH-EVER (as my secondary IT teacher used to say, in a slow, dramatic voice) I also made an interactive, Website Portfolio to demonstrate a few projects of mine. There I also showcase real-time data sent from sensors in my room with a SQL database and PHP. <br />
