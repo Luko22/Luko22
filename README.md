@@ -46,14 +46,23 @@ But most of all, I enjoy making Electronics projects that can impact my life and
   </a>
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer" title="Unreal Engine">
     <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+   </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer" title="AWS">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
+  <a href="https://mqtt.org/" target="_blank" rel="noreferrer" title="MQTT">
+    <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="mqtt" width="40" height="40"/>
+  </a>
+</div>
+  
+  <!--</a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-</div>
+</div> -->
 <!--   -->
 
 <!--## Portfolio website
