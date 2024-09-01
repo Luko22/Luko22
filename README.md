@@ -51,9 +51,9 @@ But most of all, I enjoy making Electronics projects that can impact my life and
     <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer" title="MQTT">
-    <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="mqtt" width="40" height="40"/>
-  </a>
-</div>
+    <img src="https://mqtt.org/assets/img/mqtt-logo-transp.svg" alt="mqtt" width="40" height="40"/>
+</a>
+
   
   <!--</a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP">
@@ -63,6 +63,7 @@ But most of all, I enjoy making Electronics projects that can impact my life and
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </div> -->
+</div>
 <!--   -->
 
 <!--## Portfolio website
