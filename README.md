@@ -1,8 +1,8 @@
 # Hello, my name is Laudo Lukoki
 
-**`Aspiring Hardware Engineer`**
+**`Mechatronic Systems Engineer`**
 
-I'm a Mechatronics Engineering student. I enjoy Cooking, Mixed Martial Arts, and Warhammer 40K.<br />
+I'm a Mechatronic Systems Engineering student. I enjoy Cooking, Mixed Martial Arts, and Warhammer 40K.<br />
 But most of all, I enjoy making Electronics/IoT projects that can impact my life and those around me. 
 
 
