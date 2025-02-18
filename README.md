@@ -3,7 +3,7 @@
 **`Mechatronic Systems Engineer`**
 
 I'm a Mechatronic Systems Engineering student. I enjoy Cooking, Mixed Martial Arts, and Warhammer 40K.<br /> 
-Currently, I'm on a journey to becoming a Robotics Engineer.
+
 
 <h2 align="left">🤺 Languages and Tools</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
