@@ -1,6 +1,16 @@
-# Call me Luko
+# Luko
 
 **`Mechatronic Systems Engineer`**
+
+<p>
+  In fearful day, 
+  in raging night, 
+  with strong hearts full, 
+  our souls ignite, 
+  when all seems lost in the war of light, 
+  look to the stars— for hope burns bright.
+  (Unless you code in C++)
+</p>
 
 <h2 align="left">🤺 Languages and Tools</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -51,33 +61,6 @@
 </a>
 
   
-  <!--</a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer" title="PHP">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-</div> -->
-</div>
-<!--   -->
-
-<!--## Portfolio website
-With this Readme, I simply wanted to introduce myself. 
-HOW-UH-EVER (as my secondary IT teacher used to say, in a slow, dramatic voice) I also made an interactive, Website Portfolio to demonstrate a few projects of mine. There I also showcase real-time data sent from sensors in my room with a SQL database and PHP. <br />
-Essentially this is a whole software project to show my hardware projects. [Here is my Portfolio](Luko22.github.io)
--->
-<br />
- 
-<details>
- <summary><h3>🙋🏿‍♂️ ABOUT ME </h3></summary>
-  I was born in Luanda, Angola, and moved to Cuba with my family in 2012. There, I graduated in 2019 with an IB Diploma from the International School of Havana and also learned Spanish and English (my second and third languages, Portuguese being my first). 6 months later I found myself in Aachen, Germany, where I enrolled in an Intensive Language Course. Unfortunately, the COVID lockdown started 3 months into my language course, which required the remainder of it to be done online. I then enrolled in the Rhein-Waal University of Applied Sciences, where I study Mechatronics Systems Engineering. I enjoy Embedded System Development and wish to be able to pursue it professionally. I am part of my university's Robotics Club and eGoKart Team, where I not only gain technical experience but also teamwork and soft skills. Similarly, I have also joined Reddit and Discord communities dedicated to Embedded Systems. 
-</details>
-
-<details>
- <summary><h3>🎛️ WHAT INSPIRED ME </h3></summary>
-   One of my earliest inspirations was purchasing an Arduino Uno development kit with sensors. I was amazed at how many things can be done and made with just one board. I then started encountering boards that are capable of WiFi and Bluetooth and even bought custom boards. I was forever changed. Since then I have now finished many personal projects and a few academic ones, all spanning topics from a math board game to a robot car which I can see and control from my mobile phone. The biggest difference I recognize within myself since I started is that now I have a better idea of how little I truly know, and how eager I am to learn more. I want to learn and experience through making, and I believe I am in the right path.
-</details>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luko22&show_icons=true&locale=en&layout=compact" alt="My Top Languages" />
